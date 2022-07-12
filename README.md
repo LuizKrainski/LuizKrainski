@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuizKrainski
 - 👀 I’m interested in code program
-- 🌱 I’m currently learning Python, Java, CSS, C++
+- 🌱 I’m currently learning Python, JavaScrpit, CSS, C++
 - 💞️ I’m looking to collaborate on project as beginner in python, java, c++
 - 📫 How to reach me follow my instagram page @luiskrainski1
 
